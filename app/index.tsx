@@ -44,15 +44,15 @@ export default function HomeScreen() {
 
             <View style={styles.contactSection}>
               <Text style={styles.contactTitle}>Contato</Text>
-              <Text style={styles.contactText}>Email: ppppppppppp.com</Text>
+              <Text style={styles.contactText}>Email: *********.com</Text>
               <Text style={styles.contactText}>Telefone: 000000000</Text>
-              <Text style={styles.contactText}>Website: ppppppppppp.com</Text>
+              <Text style={styles.contactText}>Website: *********.com</Text>
             </View>
           </View>
           {/* Seção: Sobre mim */}
           <View style={styles.aboutSection}>
             <Text style={styles.sectionTitle}>Sobre mim</Text>
-            <Text style={styles.aboutText}>               sou bom
+            <Text style={styles.aboutText}>               ******
               
             </Text>
           </View>
@@ -70,19 +70,19 @@ export default function HomeScreen() {
 
             {/* Linhas da Tabela */}
             <View style={styles.tableRow}>
-              <Text style={[styles.tableCell, styles.cellCurso]}>isso ai</Text>
-              <Text style={[styles.tableCell, styles.cellInstituicao]}>issis</Text>
-              <Text style={[styles.tableCell, styles.cellAno]}>2023</Text>
+              <Text style={[styles.tableCell, styles.cellCurso]}>*****</Text>
+              <Text style={[styles.tableCell, styles.cellInstituicao]}>*****</Text>
+              <Text style={[styles.tableCell, styles.cellAno]}>*****</Text>
             </View>
             <View style={styles.tableRow}>
               <Text style={[styles.tableCell, styles.cellCurso]}>*******</Text>
               <Text style={[styles.tableCell, styles.cellInstituicao]}>********</Text>
-              <Text style={[styles.tableCell, styles.cellAno]}>2022</Text>
+              <Text style={[styles.tableCell, styles.cellAno]}>*****</Text>
             </View>
             <View style={styles.tableRow}>
-              <Text style={[styles.tableCell, styles.cellCurso]}>*********</Text>
-              <Text style={[styles.tableCell, styles.cellInstituicao]}>********</Text>
-              <Text style={[styles.tableCell, styles.cellAno]}>2021</Text>
+              <Text style={[styles.tableCell, styles.cellCurso]}>******</Text>
+              <Text style={[styles.tableCell, styles.cellInstituicao]}>******</Text>
+              <Text style={[styles.tableCell, styles.cellAno]}>*****</Text>
             </View>
           </View>
 
@@ -223,16 +223,16 @@ export default function HomeScreen() {
           <View style={styles.experienciaSection}>
             <Text style={styles.sectionTitle}>Experiência Profissional</Text>
             <ExperienciaItem
-              cargo="Domador e Treinador de Dragões"
-              empresa="Ilha de Berk LTDA"
-              periodo="2019 - Presente"
-              descricao="Responsável por domar todos os dragões para os cidadões da ilha e encontrar o ninho dos dragões e derrotar o lider deles."
+              cargo= "*****"
+              empresa="*****"
+              periodo="*****"
+              descricao="*****"
             />
             <ExperienciaItem
-              cargo="domador, Treinador e Veterinario de Dragões"
-              empresa="Ninho dos Dragões - Montanha de Neve"
-              periodo="2023 - 2025"
-              descricao="Fui o responsável por salvar todos os dragões ao lado da minha mãe e seu dragão, derrotei outro lider dos dragões."
+              cargo="*****"
+              empresa="*****"
+              periodo="****"
+              descricao="*****"
             />
           </View>
           {/* Linha divisória */}
@@ -241,14 +241,14 @@ export default function HomeScreen() {
           <View style={styles.formacaoSection}>
             <Text style={styles.sectionTitle}>Formação Acadêmica</Text>
             <FormacaoItem
-              curso="Domador de Dragões"
-              instituicao="Universidade Draconis"
-              ano="2019 - 2023"
+              curso="*****"
+              instituicao="*****"
+              ano="*****"
             />
             <FormacaoItem
-              curso="Treinador de Dragões"
-              instituicao="Academia de Estudos Draconianos"
-              ano="2017 - 2019"
+              curso="*****"
+              instituicao="*****"
+              ano="*****"
             />
           </View>
           {/* Linha divisória */}
