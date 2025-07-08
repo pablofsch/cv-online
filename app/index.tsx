@@ -39,20 +39,20 @@ export default function HomeScreen() {
           </TouchableOpacity>
           {/* Informações */}
           <View style={styles.infoBlock}>
-            <Text style={styles.name}>Soluço Banguela</Text>
-            <Text style={styles.title}>Domador de Dragões</Text>
+            <Text style={styles.name}>anonimo</Text>
+            <Text style={styles.title}>nao vi</Text>
 
             <View style={styles.contactSection}>
               <Text style={styles.contactTitle}>Contato</Text>
-              <Text style={styles.contactText}>Email: domador.dragoes@feras.com</Text>
-              <Text style={styles.contactText}>Telefone: Sinal de fumaça</Text>
-              <Text style={styles.contactText}>Website: domadordedragoes.com</Text>
+              <Text style={styles.contactText}>Email: ppppppppppp.com</Text>
+              <Text style={styles.contactText}>Telefone: 000000000</Text>
+              <Text style={styles.contactText}>Website: ppppppppppp.com</Text>
             </View>
           </View>
           {/* Seção: Sobre mim */}
           <View style={styles.aboutSection}>
             <Text style={styles.sectionTitle}>Sobre mim</Text>
-            <Text style={styles.aboutText}>               Treino seu dragão para conseguir montar nele e voar com ele, faço ele te obedecer completamente.
+            <Text style={styles.aboutText}>               sou bom
               
             </Text>
           </View>
@@ -70,18 +70,18 @@ export default function HomeScreen() {
 
             {/* Linhas da Tabela */}
             <View style={styles.tableRow}>
-              <Text style={[styles.tableCell, styles.cellCurso]}>Domador de Dragões</Text>
-              <Text style={[styles.tableCell, styles.cellInstituicao]}>Universidade Draconis</Text>
+              <Text style={[styles.tableCell, styles.cellCurso]}>isso ai</Text>
+              <Text style={[styles.tableCell, styles.cellInstituicao]}>issis</Text>
               <Text style={[styles.tableCell, styles.cellAno]}>2023</Text>
             </View>
             <View style={styles.tableRow}>
-              <Text style={[styles.tableCell, styles.cellCurso]}>Treinador de Dragões</Text>
-              <Text style={[styles.tableCell, styles.cellInstituicao]}>Academia de Estudos Draconianos</Text>
+              <Text style={[styles.tableCell, styles.cellCurso]}>*******</Text>
+              <Text style={[styles.tableCell, styles.cellInstituicao]}>********</Text>
               <Text style={[styles.tableCell, styles.cellAno]}>2022</Text>
             </View>
             <View style={styles.tableRow}>
-              <Text style={[styles.tableCell, styles.cellCurso]}>Veterinaria de Dragões</Text>
-              <Text style={[styles.tableCell, styles.cellInstituicao]}>Instituto Escamas de Ouro</Text>
+              <Text style={[styles.tableCell, styles.cellCurso]}>*********</Text>
+              <Text style={[styles.tableCell, styles.cellInstituicao]}>********</Text>
               <Text style={[styles.tableCell, styles.cellAno]}>2021</Text>
             </View>
           </View>
@@ -92,28 +92,28 @@ export default function HomeScreen() {
 
             {/* Exemplo de Habilidade */}
             <View style={styles.skillItem}>
-              <Text style={styles.skillLabel}>Domador de Dragões</Text>
+              <Text style={styles.skillLabel}>*******</Text>
               <View style={styles.progressBar}>
                 <View style={[styles.progressFill, { width: '100%' }]} />
               </View>
             </View>
 
             <View style={styles.skillItem}>
-              <Text style={styles.skillLabel}>Treinador de Dragões</Text>
+              <Text style={styles.skillLabel}>*******</Text>
               <View style={styles.progressBar}>
                 <View style={[styles.progressFill, { width: '100%' }]} />
               </View>
             </View>
 
             <View style={styles.skillItem}>
-              <Text style={styles.skillLabel}>Veterinaria de Dragões</Text>
+              <Text style={styles.skillLabel}>*******</Text>
               <View style={styles.progressBar}>
                 <View style={[styles.progressFill, { width: '80%' }]} />
               </View>
             </View>
 
             <View style={styles.skillItem}>
-              <Text style={styles.skillLabel}>Nutricionista de Dragões</Text>
+              <Text style={styles.skillLabel}>*******</Text>
               <View style={styles.progressBar}>
                 <View style={[styles.progressFill, { width: '55%' }]} />
               </View>
